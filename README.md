@@ -21,9 +21,9 @@ $$ \tau = m l^2 \theta'' + k \theta' + m g l \sin(\theta) $$
 Where:
 
 - $\tau$: Torque
-- $m = 0.5 \, \text{kg}$: Mass of the pendulum
-- $l = 1 \, \text{m}$: Length of the pendulum
-- $k = 0.5 \, \text{Nms}$: Damping coefficient
+- $m = 0.5 ~ \text{kg}$: Mass of the pendulum
+- $l = 1 ~ \text{m}$: Length of the pendulum
+- $k = 0.5 ~ \text{Nms}$: Damping coefficient
 - $g$: Acceleration due to gravity
 
 The system can be reduced to a second-order differential equation:
